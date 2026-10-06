@@ -1,0 +1,6 @@
+# PyTorch and PyTorch Geometric are installed first, for the CUDA build in use (see README).
+h5py
+tomlkit
+numpy
+pyvista
+matplotlib
