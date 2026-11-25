@@ -1,0 +1,7 @@
+warp-lang>=1.5
+h5py
+tomlkit
+numpy
+pyvista
+matplotlib
+scipy
